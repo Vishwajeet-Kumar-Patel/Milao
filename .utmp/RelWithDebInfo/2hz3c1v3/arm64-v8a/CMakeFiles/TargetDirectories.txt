@@ -1,0 +1,5 @@
+C:/Users/vishw/OneDrive/Desktop/Game/SweetBat_Match-main/.utmp/RelWithDebInfo/2hz3c1v3/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/vishw/OneDrive/Desktop/Game/SweetBat_Match-main/.utmp/RelWithDebInfo/2hz3c1v3/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/vishw/OneDrive/Desktop/Game/SweetBat_Match-main/.utmp/RelWithDebInfo/2hz3c1v3/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/vishw/OneDrive/Desktop/Game/SweetBat_Match-main/.utmp/RelWithDebInfo/2hz3c1v3/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/vishw/OneDrive/Desktop/Game/SweetBat_Match-main/.utmp/RelWithDebInfo/2hz3c1v3/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
